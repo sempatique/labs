@@ -1,0 +1,56 @@
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.gradle/
+
+# Кэш Maven/Gradle
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Логи
+*.log
+
+# Компиляция
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+
+# Конфиденциальные файлы
+*.keystore
+*.env
+
+# Библиотеки и зависимости
+*.kts
+*.kt~
+*.swp
+
+# Тестовые результаты
+/test-results/
+
+# Kotlin/Java IDE файлы
+.idea/
+*.idea/
+
+# MacOS специфические файлы
+.DS_Store
+
+# Windows специфические настройки
+Thumbs.db
+
+# Любые временные файлы
+*.tmp
+*.temp
+*.bak
+*.swp
+
